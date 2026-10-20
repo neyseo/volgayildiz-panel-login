@@ -131,3 +131,4 @@ Technically, we could host Sveltia CMS Authenticator on our own server and let a
 ## Acknowledgements
 
 This project was inspired by [`netlify-cms-oauth-firebase`](https://github.com/Herohtar/netlify-cms-oauth-firebase).
+Volga Yildiz panel login
